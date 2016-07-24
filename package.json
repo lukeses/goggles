@@ -15,6 +15,8 @@
     "express-hbs": "*",
     "jugglingdb-sqlite3": "0.0.5",
     "morgan": "^1.6.1",
-    "static-expiry": ">=0.0.5"
+    "static-expiry": ">=0.0.5",
+    "jugglingdb": "0.2.x",
+    "jugglingdb-postgres": "latest"
   }
 }
